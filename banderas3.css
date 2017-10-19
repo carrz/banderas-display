@@ -1,0 +1,27 @@
+.lab{
+	background-color: #F4C300;
+	color: #2F2F2F;
+	height: 150px;
+	width: 300px;
+	padding: 10px;
+	display: inline-block;
+	margin: 15px;
+}
+.es{
+	background-color: #2F2F2F;
+	color: #FFF;
+	height: 150px;
+	width: 300px;
+	padding: 10px;
+	display: inline-block;
+	margin: 15px;
+}
+.trans{
+	background-color: #F4C300;
+	color: #2F2F2F;
+	height: 150px;
+	width: 300px;
+	padding: 10px;
+	display: inline-block;
+	margin: 15px;
+}
